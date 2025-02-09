@@ -88,6 +88,8 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
         div.style.padding = "10px";
         div.style.borderRadius = "5px"; // For rounded corners
         div.style.boxShadow = "0 0 10px rgba(0, 0, 0, 0.3)"; // For a subtle shadow effect
+        // Adding a title
+        div.innerHTML = "<h4 style='margin: 0 0 5px; text-align: center;'>Depth (km)</h4>";
         let depths = [-10, 10, 30, 50, 70, 90];
         let colors = ["#00ff00", "#ffff00", "#ffcc00", "#ff9900", "#ff6600", "#ff0000"];
 
