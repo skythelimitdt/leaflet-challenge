@@ -38,8 +38,10 @@ or <br>
 This project is free to use for personal and academic purposes only. Commercial use is not permitted without prior authorization from the author.
 
 ## References
-ASU Data Analytics Bootcamp class activities
-chatGPT
-- Asked about legend's background optimization on bottom right
-- Fixed the code for earthquake data to show only when checked on the map overlay, otherwise remove the earthquake information
+- Dataset for earthquakes created by [the United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+- Dataset for tectonic plates pulled from [GitHub - PB2002 Boundaries](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+- ASU Data Analytics Bootcamp class activities
+- chatGPT
+-   Asked about legend's background optimization on bottom right
+-   Fixed the code for earthquake data to show only when checked on the map overlay, otherwise remove the earthquake information
 
