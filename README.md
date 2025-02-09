@@ -1,10 +1,10 @@
 # Global Earthquake & Tectonic Plate Visualization
-🌍 **Explore the world's seismic activity and tectonic movements in real time!**
+🌍 **Explore the world's seismic activity and tectonic movements in real time!** <br> <br>
 This project is an interactive map that visualizes global earthquake data and tectonic plate boundaries using **Leaflet.js**. It fetches real-time earthquake data from the **USGS Earthquake API** and tectonic plate boundary data from a **GitHub GeoJSON source**.
 
 
 ## Features
-- Displays global earthquake data from the past week.
+- Displays global earthquake data from the past 7 days.
 - **Circle markers** represent earthquakes, with:
   - **Size** based on magnitude.
   - **Color** based on depth.
@@ -30,7 +30,8 @@ This project is an interactive map that visualizes global earthquake data and te
 1. Clone this repository: leaflet-challenge   
 2. Open `index.html` in a browser.
 
-or **explore earthquake data and tectonic plate boundaries here**: [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge)
+or <br>
+**explore earthquake data and tectonic plate boundaries here**: [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge)
 
 
 ## License
